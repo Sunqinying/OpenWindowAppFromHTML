@@ -1,0 +1,24 @@
+{
+  "name": "regedit",
+  "version": "1.0.0",
+  "description": "edit regedit then we can open windows app from html",
+  "main": "regedit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunqinying/OpenWindowAppFromHTML.git"
+  },
+  "keywords": [
+    "regedit",
+    "http",
+    "windows"
+  ],
+  "author": "timmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunqinying/OpenWindowAppFromHTML/issues"
+  },
+  "homepage": "https://github.com/Sunqinying/OpenWindowAppFromHTML#readme"
+}
